@@ -22,10 +22,8 @@ namespace Course
             y.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            double p = (x.A + x.B + x.C) / 2.0;
+           
             double areaX = x.Area();   
-
-            double q = (y.A + y.B + y.C) / 2.0;
             double areaY = y.Area();   
 
             Console.WriteLine("Área do triângulo X: " + areaX.ToString("F4", CultureInfo.InvariantCulture));
