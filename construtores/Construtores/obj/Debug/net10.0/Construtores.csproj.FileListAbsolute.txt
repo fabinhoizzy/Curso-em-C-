@@ -1,0 +1,15 @@
+C:\Users\fabin\OneDrive\Documents\Curso de C#\construtores\Construtores\obj\Debug\net10.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabin\OneDrive\Documents\Curso de C#\construtores\Construtores\obj\Debug\net10.0\Construtores.AssemblyInfoInputs.cache
+C:\Users\fabin\OneDrive\Documents\Curso de C#\construtores\Construtores\obj\Debug\net10.0\Construtores.AssemblyInfo.cs
+C:\Users\fabin\OneDrive\Documents\Curso de C#\construtores\Construtores\obj\Debug\net10.0\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\fabin\OneDrive\Documents\Curso de C#\construtores\Construtores\obj\Debug\net10.0\Construtores.sourcelink.json
+C:\Users\fabin\OneDrive\Documents\Curso de C#\construtores\Construtores\bin\Debug\net10.0\Construtores.exe
+C:\Users\fabin\OneDrive\Documents\Curso de C#\construtores\Construtores\bin\Debug\net10.0\Construtores.deps.json
+C:\Users\fabin\OneDrive\Documents\Curso de C#\construtores\Construtores\bin\Debug\net10.0\Construtores.runtimeconfig.json
+C:\Users\fabin\OneDrive\Documents\Curso de C#\construtores\Construtores\bin\Debug\net10.0\Construtores.dll
+C:\Users\fabin\OneDrive\Documents\Curso de C#\construtores\Construtores\bin\Debug\net10.0\Construtores.pdb
+C:\Users\fabin\OneDrive\Documents\Curso de C#\construtores\Construtores\obj\Debug\net10.0\Construtores.dll
+C:\Users\fabin\OneDrive\Documents\Curso de C#\construtores\Construtores\obj\Debug\net10.0\refint\Construtores.dll
+C:\Users\fabin\OneDrive\Documents\Curso de C#\construtores\Construtores\obj\Debug\net10.0\Construtores.pdb
+C:\Users\fabin\OneDrive\Documents\Curso de C#\construtores\Construtores\obj\Debug\net10.0\Construtores.genruntimeconfig.cache
+C:\Users\fabin\OneDrive\Documents\Curso de C#\construtores\Construtores\obj\Debug\net10.0\ref\Construtores.dll
