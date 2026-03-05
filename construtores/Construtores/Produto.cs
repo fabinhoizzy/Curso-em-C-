@@ -22,18 +22,19 @@ namespace Course
             _quantidade = 0;
         }
 
-
-        public string GetNome()
+        public string Nome
         {
-            return _nome;
+            get {return _nome;}
+            set
+            {
+                if (value != null && value.Length > 1)
+                {
+                    _nome = value;
+                }
+
+            }
         }
-
-        public void SetNome(string nome)
-        {
-            _nome = nome;
-        }
-
-
+      
         public double ValorTotalEmEstoque()
         {
             return _preco * _quantidade;
